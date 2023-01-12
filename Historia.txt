@@ -1,3 +1,15 @@
+em primer lugar se debe configurar git con git config --global user.name "Nombre de usuario"
+y con git config --global user.email "correo"
+
 revision primera parte de git 
 crear archivos con touch
 crear carpetas con mkdir editar texto plano con code "nombre del archivo y extension"
+
+para agregar un archivo debo usar git add nombre del archivo y su extencion por ejemplo
+git add historia.txt
+
+si son varios archivos puedo utilizar git add .
+
+luego para subirlo a git de utilizar el comando commit por ejemplo
+git commit -m "una descripcion de lo que se sube"
+
