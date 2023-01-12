@@ -1,4 +1,4 @@
-em primer lugar se debe configurar git con git config --global user.name "Nombre de usuario"
+en primer lugar se debe configurar git con git config --global user.name "Nombre de usuario"
 y con git config --global user.email "correo"
 
 revision primera parte de git 
@@ -13,3 +13,5 @@ si son varios archivos puedo utilizar git add .
 luego para subirlo a git de utilizar el comando commit por ejemplo
 git commit -m "una descripcion de lo que se sube"
 
+(la m- es para indicar un mensaje al subir una actualizacion, es una buena practica y por eso lo aplicaremos)
+de igual forma intentaremos subir la siguiente actualizacion sin el -m 
