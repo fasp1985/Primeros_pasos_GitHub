@@ -13,3 +13,5 @@ ahora me encuentro en un curso de Git
 
 
 espero poder generar trabajos y aplicar los conocimientos.
+
+hoy debo subir mis archivos a git.
