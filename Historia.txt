@@ -1,0 +1,3 @@
+revision primera parte de git 
+crear archivos con touch
+crear carpetas con mkdir editar texto plano con code "nombre del archivo y extension"
