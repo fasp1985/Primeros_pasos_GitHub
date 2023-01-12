@@ -17,4 +17,7 @@ git commit -m "una descripcion de lo que se sube"
 de igual forma intentaremos subir la siguiente actualizacion sin el -m 
 
 12-01-23
-nuevos pasos en la historia, hoy se creo un archivo html el cual sera un blog y se creo la carpeta css para los estilos de la pagina
+nuevos pasos en la historia, hoy se creo un archivo html el cual sera un blog y se creo la carpeta css para los estilos de la pagina.
+
+
+y agregamos un nuevo cambio para practicar 
